@@ -1,0 +1,49 @@
+header {
+	text-align: center;
+	font-size: 2em;
+}
+
+main {
+	font-family: sans-serif;
+}
+
+body {
+	font-size: 16px;
+	font-family: sans-serif;
+	color maroon;
+}
+
+h1 {
+	font-size: 1.9em;
+	font-family: monospace;
+	color: grey;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.2em;
+	font-family: monospace;
+	text-align: center;
+}
+
+#info {
+	font-size: 20px;
+	margin: 50px 100px 40px 100px;
+	padding: 30px 30px 30px 30px;
+	border-style: dashed;
+	border-color: grey;
+}
+
+#menu {
+	font-family: sans-serif;
+	font-size: 1.3em;
+	float: left;
+	margin: 20px 20px 20px 20px;
+	padding: 20px 20px 20px 20px;
+}
+
+.block {
+	
+	margin: 20px 20px 20px 20px;
+}
+
