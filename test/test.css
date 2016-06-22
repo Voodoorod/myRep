@@ -1,0 +1,20 @@
+img {
+  height: 200px;
+  width: auto;
+}
+.parent {
+  display: table;
+}
+
+.block {
+  display: table-row;
+}
+
+.picture {
+  display: table-cell;
+
+}
+
+.description {
+  display: table-cell;
+}
